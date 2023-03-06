@@ -1,1 +1,1 @@
-# questao-cycleDetection
+# Cycle Detection - HackerRank
