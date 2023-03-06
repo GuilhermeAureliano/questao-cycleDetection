@@ -9,4 +9,4 @@ static boolean hasCycle(SinglyLinkedListNode head) {
             head = head.next;
         }
         return false;
-}
+    }
